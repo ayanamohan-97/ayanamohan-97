@@ -46,17 +46,17 @@ I'm **Ayana Mohan**, a Civil Engineering candidate passionate about sustainable 
 
   <img src="https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&color=000000" alt="MS PowerPoint" />
 
-   <img src="https://img.shields.io/badge/Team_Leadership-E34F26?style=for-the-badge&logo=Team Leadership&color=000000" alt="Team Leadership" />
+   <img src="https://img.shields.io/badge/Team_Leadership-E34F26?style=for-the-badge&logo=Team-Leadership&color=000000" alt="Team Leadership" />
 
-<img src="https://img.shields.io/badge/Event_Coordination-E34F26?style=for-the-badge&logo=Event Coordination&color=000000" alt="Event Coordination" />
+<img src="https://img.shields.io/badge/Event_Coordination-E34F26?style=for-the-badge&logo=Event-Coordination&color=000000" alt="Event Coordination" />
 
-<img src="https://img.shields.io/badge/Problem_Solving-E34F26?style=for-the-badge&logo=Problem Solving&color=000000" alt="Problem Solving" />
+<img src="https://img.shields.io/badge/Problem_Solving-E34F26?style=for-the-badge&logo=Problem-Solving&color=000000" alt="Problem Solving" />
 
-<img src="https://img.shields.io/badge/Time_Management-E34F26?style=for-the-badge&logo=Time Management&color=000000" alt="Time Management" />
+<img src="https://img.shields.io/badge/Time_Management-E34F26?style=for-the-badge&logo=Time-Management&color=000000" alt="Time Management" />
 
-<img src="https://img.shields.io/badge/Innovation_Management-E34F26?style=for-the-badge&logo=Innovation Management&color=000000" alt="Innovation Management" />
+<img src="https://img.shields.io/badge/Innovation_Management-E34F26?style=for-the-badge&logo=Innovation-Management&color=000000" alt="Innovation Management" />
 
-<img src="https://img.shields.io/badge/Program_Execution-E34F26?style=for-the-badge&logo=Program Execution&color=000000" alt="Program Execution" />
+<img src="https://img.shields.io/badge/Program_Execution-E34F26?style=for-the-badge&logo=Program-Execution&color=000000" alt="Program Execution" />
 
 
   </div>
