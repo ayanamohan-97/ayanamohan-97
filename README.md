@@ -93,6 +93,6 @@ I'm **Ayana Mohan**, a Civil Engineering candidate passionate about sustainable 
 
 <h2 id="Career_Goal" align=''> Career Goal </h2>
 
-To build a successful career in civil engineering by applying my technical knowledge and practical skills in sustainable infrastructure, BIM technology, and smart construction while continuously learning and growing professionally.
+To grow as an operations and community leader by contributing to collaborative learning initiatives, managing impactful programs, and fostering innovation through technology, teamwork, and effective communication.
 
 ---
